@@ -68,4 +68,5 @@ Last Updated on 11/21/2023, 3:14:37 AM</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/slack/slack-original-wordmark.svg" height="40" width="40">
 </p>
 
-
+## Activity
+![](https://raw.githubusercontent.com/Awayume/Awayume/output/github-contribution-grid-snake.svg)
