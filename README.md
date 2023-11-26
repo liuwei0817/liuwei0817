@@ -26,8 +26,6 @@
 
 ## LAPRAS
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/liuwei0817" target="_blank" rel="noopener noreferrer"><img alt="liuwei0817's scores on LAPRAS are as follows: Engineering: undefined out of 5.0, Business: undefined out of 5.0, Influence: undefined out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 11/26/2023, 8:29:40 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## SKILLS
