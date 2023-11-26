@@ -23,3 +23,10 @@
 [![](https://raw.githubusercontent.com/liuwei0817/liuwei0817/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liuwei0817&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
+
+## LAPRAS
+<!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/h-yoshikawa44" target="_blank" rel="noopener noreferrer"><img alt="liuwei's scores on LAPRAS are as follows: Engineering: 4.25 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.89 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.84&b=3.48&i=3.26&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
+Last Updated on 11/21/2023, 3:14:37 AM</p>
+<!--END_SECTION:lapras-card-->
+
