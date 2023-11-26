@@ -32,37 +32,39 @@ Last Updated on 11/21/2023, 3:14:37 AM</p>
 
 ## SKILLS
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/apache/apache-line-wordmark.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/cakephp-original.svg" alt="cakePHP" width="40" height="40"/>
+alt="aws" width="40" height="40"/>
   <img src="https://icongr.am/devicon/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://icongr.am/devicon/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://icongr.am/devicon/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://icongr.am/devicon/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://icongr.am/devicon/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/tomcat-original.svg" alt="tomcat" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://icongr.am/devicon/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/cakephp-original.svg" alt="cakePHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/webpack-original.svg" alt="webpack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/yarn/yarn-original-wordmark.svg" height="40" width="40">
+  <img src="https://icongr.am/devicon/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/apache/apache-line-wordmark.svg" height="40" width="40">
+  <img src="https://icongr.am/devicon/tomcat-original.svg" alt="tomcat" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/vim/vim-original.svg" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/slack/slack-original-wordmark.svg" height="40" width="40">
 </p>
