@@ -1,0 +1,27 @@
+name: GenerateSnake
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
+
+jobs:
+  update-repository:
+    name: Update this repo's README with repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-svg
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./img/snake.svg
+            ./img/snake_dark.svg?palette=github-dark
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9.1.3
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'action@github.com'
+          message: ':rocket: Update snake'
