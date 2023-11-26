@@ -32,7 +32,6 @@ Last Updated on 11/21/2023, 3:14:37 AM</p>
 
 ## SKILLS
 <p align="left">
-alt="aws" width="40" height="40"/>
   <img src="https://icongr.am/devicon/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://icongr.am/devicon/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://icongr.am/devicon/java-original.svg" alt="java" width="40" height="40"/>
