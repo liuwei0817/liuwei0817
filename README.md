@@ -69,4 +69,4 @@ Last Updated on 11/21/2023, 3:14:37 AM</p>
 </p>
 
 ## Activity
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake.svg#gh-light-mode-only)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/liuwei0817/liuwei0817/main/img/snake.svg#gh-light-mode-only)
