@@ -15,6 +15,7 @@
 [![Light GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=liuwei0817&show_icons=true&count_private=true&theme=dark)](https://github.com/liuwei0817/github-readme-statsy)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=liuwei0817&theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liuwei0817&theme=gruvbox)](https://github.com/liuwei0817/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/liuwei0817/liuwei0817/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
