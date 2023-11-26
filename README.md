@@ -69,4 +69,4 @@ Last Updated on 11/21/2023, 3:14:37 AM</p>
 </p>
 
 ## Activity
-![](https://raw.githubusercontent.com/Awayume/Awayume/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Awayume/Awayume/outputs/github-contribution-grid-snake.svg)
