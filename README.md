@@ -16,9 +16,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liuwei0817&theme=gruvbox)](https://github.com/liuwei0817/github-profile-trophy)
 
-[![profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liuwei0817&theme=gruvbox)
+[![profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liuwei0817&theme=gruvbox)]
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liuwei0817&theme=gruvbox)(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liuwei0817&theme=gruvbox)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liuwei0817&theme=gruvbox)http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liuwei0817&theme=gruvbox
 
 [![](https://raw.githubusercontent.com/liuwei0817/liuwei0817/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
