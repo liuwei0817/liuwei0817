@@ -16,7 +16,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liuwei0817&theme=gruvbox)](https://github.com/liuwei0817/github-profile-trophy)
 
-[![](https://raw.githubusercontent.com/liuwei0817/liuwei0817/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liuwei0817&theme=gruvbox)
 
 [![](https://raw.githubusercontent.com/liuwei0817/liuwei0817/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
