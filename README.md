@@ -29,7 +29,7 @@
 ## LAPRAS
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/CQM7SAW" target="_blank" rel="noopener noreferrer"><img alt="CQM7SAW's scores on LAPRAS are as follows: Engineering: 2.95 out of 5.0, Business: 2.85 out of 5.0, Influence: 2.31 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=2.95&b=2.85&i=2.31&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 12/10/2023, 2:18:55 AM</p>
+Last Updated on 12/11/2023, 2:17:42 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## SKILLS
